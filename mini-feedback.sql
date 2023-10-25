@@ -1,0 +1,5 @@
+CREATE TABLE mini (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    saran VARCHAR(255) NOT NULL
+);
+
